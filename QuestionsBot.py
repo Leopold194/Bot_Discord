@@ -1,0 +1,71 @@
+questions = {
+	"easy":{
+		"Quel est le nom du pouvoir utilisé dans la partie 1 et 2 de jojo’s bizarre adventure ?":["l'onde", "onde"],
+		"Quel est le vrai prénom du démon qui habite Naruto ?":["kurama"],
+		"Quel est le mot le plus utilisé par Zero Two pour désigné Hiro dans Darling In The Franxx ?":["darling"],
+		"Comment s'appelle le dieu de la mort principal dans Death Note ?":["ryuk"],
+		"Quel est le peché capital de Gowther dans Seven Deadly Sins ?":["luxure"],
+		"Comment s'appelle la petite évolution de pikachu dans Pokemon ?":["pichu"],
+		"Comment s’appelle le protagoniste de Mob Psycho 100 ?":["kageyama shigeo", "shigeo kageyama"],
+		"Quel est le prénom du héros dans haikyuu ?":["shôyô hinata", "shoyo hinata"],
+		"Comment s’appelle le troisième protagoniste dans The Promised Neverland ? (Emma, Norman, ...)":["ray"],
+		"Dans quel genre d’établissement sont hébergés Emma, Ray et Norman dans The Promised Neverland ?":["orphelinat"],
+		"Comment s'appelle le majordome de Ciel Phantomhive dans Black Butler ?":["sebastian michaelis", "michealis sebastian"],
+		"Quelle est la mort par défaut si elle n’est pas inscrite dans le death note ?":["arret cardiaque", "arrêt cardiaque", "crise cardiaque"],
+		"Quel est l'antagoniste principal de l'arc Dressrosa ?":["doflamingo"],
+		"Comment s'appelle le créateur du manga One Piece ?":["eiichirō oda", "eiichiro oda"]
+	},
+
+	"normal":{
+		"Quel est l'ancien capitaine de la douzième division de Bleach ? (Nom + Prénom)":["kisuke urahara", "urahara kisuke"],
+		"Quel est le surnom d'Hinata dans Haikyuu ?":["petit géant", "petit geant"],
+		"Combien il y a de lunes dans Demon Slayer ?":["douze", "12"],		
+		"Comment s'appelle la copine du chat de Natsu dans Fairy Tail":["carla"],
+		"Comment se nomme la fille de San Gohan dans Dragon Ball ?":["pan"],
+		"Quel est le nom du restaurant familial du père de Soma dans Food Wars ?":["yukihira"],
+		"Comment s'appelle l'organisation de méchant dans FullMetal Alchemist ?":["homonculus", "homunculus"],
+		"Comment s'appelle le sabre d'Akame dans Akame Ga Kill ?":["murasame"],
+		"Où se trouve précisement le tatouage de guilde, de Natsu dans Fairy Tail ?":["épaule droite", "epaule droite"],
+		"Comment les élèves appellent-ils Irina Poufanovitch dans Assassination Classroom ?":["madame pouffe", "mme pouffe"],
+		"Qui est le numéro 3 de la brigade fantôme dans Hunter x Hunter ?":["machi", "machi komachine"],
+		"Dans One Punch Man, lorsque Saitama et Genos rentrent dans le classement des héros, dans quelle classe Saitama est-il placé ?":["classe c"],
+		"Dans Steins Gate sur quoi l'équipe du laboratoire fait-elle le premier test du téléphone micro-ondes ?":["banane"],
+		"Dans Another, avec quel objet est morte une persone, tombant dans les escaliers en se transperçant la jugulaire ? ":["parapluie"],
+		"Dans l’animé Citrus que sont Mei et Yuzu l’une pour l’autre ?":["demi-soeurs", "demis-soeurs", "demi soeurs", "demis soeurs", "demi soeur", "demi-soeur", "demis soeur", "demis-soeur"],
+		"Dans Erased, combien d'années Satoru retourne-t-il en arrière ?":["18", "dix-huit"],
+		"Dans Food Wars qu’est-ce que provoque de la bonne nourriture aux personnes qui dégustent ?":["orgasme"],
+		"Kimi no Todoke  est un animé de quel genre ?":["shojo"],
+		"Quel est le nom du capitaine de la Rose Bleue dans Black Clover ?":["charlotte roselei"],
+		"Qui a infligé sa cicatrice à Ban dans Seven Deadly Sins ?":["méliodas", "meliodas"],
+		"Combien de queues a Sanbi dans Naruto ?":["3", "trois"],
+		"Comment s'appelle le capitaine de l'équipe de foot, de Inazuma Eleven ?":["mark evans"],
+		"Quel est le nom de famille de la présidente dans Kakegurui ?":["momobami"],
+		"Dans Dr Stone à qui Senkuu a-t-il été marié ?":["ruri"],
+		"Dans Demon Slayer, Tengen Uzui est le pilier de quoi ?":["son"],
+		"Qu'à écrit Tite Kubo ?":["bleach", "burn the witch"],
+		"Dans Konosuba quel est le nom du héro principal ?":["kazuma satou", "satou kazuma"]
+
+	},
+
+	"hard":{
+		"Quel est le nom de famille du père des shinobis dans Naruto ?":["otsutsuki", "ôtsutsuki"],
+		"Qui a tué Subaru lors de sa première mort dans Re:zero ? (Nom + Prénom)":["elsa granhiert", "grandhiert elsa"],
+		"A quel type de goule appartient le Gourmet dans TokyoGhoul ?":["blindé", "blinde", "blinder"],
+		"A quel place arrive Izuku à l'examen d'entrée dans My Hero Academia ?":["7", "septième", "septieme"],
+		"Quel est le nom d'Ymir en titan dans l'Attaque des Titans ?":["titan dansant"],
+		"Dans l'Attaque des Titans, comment s'appelle le sergent-instructeur qui a notamment entraîné la 104e brigade ?":["keith shardiz"],
+		"À quel animé appartient le personnage Retsuko ?":["aggretsuko"],
+		"Dans the promised neverland combien d'enfants vivent dans l'orphelinat ?":["37", "trente sept"],
+		"Quel âge a Ash Lynx dans Banana Fish ?":["17", "dix-sept"],
+		"Quel est le pseudo de Nico Robin quand elle travaillait avec le Baroque Works dans One Piece ?":["miss all sunday"],
+		"Quel est le nom de l'épée originel d'Asta dans Black Clover ?":["dispelda"],
+		"Dans Jojo’s Bizarre Adventure comment s’appelle le stand de Jean Pierre Polnareff ?":["silver chariot"],
+		"Quel est le nom du partenaire de Takemichi dans Tokyo Revengers ?":["chifuyu matsuno"],
+		"Que collectionne Itsuki Sumeragi dans Kakegurui ?":["ongles", "ongle"],
+		"Dans quel magazine a été prépublié Slam Dunk ?":["jump"],
+		"Dans Miss Kobayashi's Dragon Maid, qu'essaye toujours de faire manger Tohru à Kobayashi ?":["sa queue"],
+		"Qui est Bitch dans tate no yuusha ?":["malty melromarc"],
+		"Quel est le nom complet du capitaine commandant de Bleach ?":["genryūsai shigekuni yamamoto", "genryusai shigekuni yamamoto"]
+	}
+
+}
