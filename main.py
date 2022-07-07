@@ -1273,4 +1273,4 @@ async def on_command_error(ctx, error):
 
 keep_alive.keep_alive()
 
-client.run("NzgzMzkwMDc5NzcwMDM0MTg2.X8aC3Q.d0xlkK1cYSdBMOs8DKbzn_PEd50")
+client.run("TOKEN")
